@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @azslunes
-- 👀 I’m still trying to figure out how to use this website.
-- Thank you for taking the time to read! Hope you have a gread day.
+- Hi, I’m @azslunes
+- I’m still trying to figure out how to use this website.
+- Thank you for taking the time to read! Hope you have a gread day!
 
 <!---
 azslunes/azslunes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
